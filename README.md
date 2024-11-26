@@ -4,7 +4,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline for Spotify d
 
 ## **Architecture**
 
-![Architecture Diagram]([images/architecture_diagram.png](https://github.com/dkay678/Spotify-ETL/blob/main/spotify_etl_architecture.jpg)
+![Architecture Diagram](https://github.com/dkay678/Spotify-ETL/blob/main/spotify_etl_architecture.jpg)
 
 ## **Step-by-Step Instructions**
 
